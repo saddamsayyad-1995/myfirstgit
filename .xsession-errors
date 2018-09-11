@@ -1,0 +1,15 @@
+Xsession: X session started for  at Mon Sep 11 11:34:22 UTC 2017
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:user1 being added to access control list
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/etc/xrdp/startwm.sh: 3: [: x: unexpected operator
